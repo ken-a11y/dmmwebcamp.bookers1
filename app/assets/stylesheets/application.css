@@ -12,7 +12,10 @@ p,ul {
 
 a {
   color: #000;
-  opacity: 0.6;
+}
+
+a:visited {
+  color: #666;
 }
 
 a:hover {
